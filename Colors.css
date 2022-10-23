@@ -1,0 +1,19 @@
+.color-1 {
+    color: darkmagenta
+}
+.color-2 {
+    color: #4B0082;
+    opacity: 0.2;
+}
+
+.color-3 {
+    color: #111;
+}
+
+.color-4 {
+    color: rgb(0, 100, 0);
+}
+
+.color-5 {
+    color: rgba(0, 200, 50, 1.2);
+}
